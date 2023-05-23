@@ -1,0 +1,5 @@
+C:\Users\carlos.daniel\Desktop\chatgpt.exe
+C:\Users\carlos.daniel\Desktop\chatgpt.dll
+C:\Users\carlos.daniel\Desktop\chatgpt.deps.json
+C:\Users\carlos.daniel\Desktop\chatgpt.runtimeconfig.json
+C:\Users\carlos.daniel\Desktop\chatgpt.pdb
